@@ -1,6 +1,6 @@
 # Steam Scraper - Jogos Mais Populares 🎮
 
-## 5W1h
+## 5W1H
 
 ### **Who (Quem?)**
 O projeto foi desenvolvido para estudantes, entusiastas de programação e análise de dados que desejam **explorar os jogos mais jogados da Steam** de forma automatizada e estruturada.
